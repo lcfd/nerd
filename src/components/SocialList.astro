@@ -1,36 +1,41 @@
 ---
 import { Icon } from "astro-icon";
 
-/** 
+/**
 	Uses https://github.com/natemoo-re/astro-icon#readme
 	Find icons @ https://icones.js.org/
 */
 const socialLinks = [
 	{
+		name: "mdi:goodreads",
+		friendlyName: "Goodreads",
+		link: "https://www.goodreads.com/lcfd",
+	},
+	{
 		name: "mdi:github",
 		friendlyName: "Github",
-		link: "https://github.com/chrismwilliams/astro-cactus",
+		link: "https://github.com/lcfd",
 	},
 	{
 		name: "mdi:mastodon",
 		friendlyName: "Mastodon",
-		link: "#",
+		link: "https://fosstodon.org/@lcfd",
 	},
 	{
-		name: "mdi:linkedin",
-		friendlyName: "LinkedIn",
-		link: "#",
+		name: "mdi:twitter",
+		friendlyName: "Twitter",
+		link: "https://twitter.com/lc_fd",
 	},
 	{
 		name: "mdi:email",
 		friendlyName: "email",
-		link: "mailto:astro-cactus@chriswilliams.dev",
+		link: "mailto:hi@lucafedrizzi.com",
 	},
 ];
 ---
 
 <div class="flex flex-wrap items-end gap-x-4">
-	<p>Find me on</p>
+	<p>Sono anche su</p>
 	<ul class="flex flex-1 items-center gap-x-2 sm:flex-initial">
 		{
 			socialLinks.map(({ link, name, friendlyName }) => {

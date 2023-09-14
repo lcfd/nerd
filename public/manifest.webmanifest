@@ -1,7 +1,7 @@
 {
-	"name": "Astro Theme Cactus Demo",
-	"short_name": "Astro_Cactus",
-	"description": "Starter blog site for Astro",
+	"name": "Nerd di Luca Fedrizzi",
+	"short_name": "Nerd",
+	"description": "In questo spazio vi racconterò di tutto sulle ultime nerdate che ho fatto, serie e film che ho guardato, come sta andando l'arrampicata. E tante altre cose che verranno fuori più avanti.",
 	"icons": [
 		{
 			"src": "/192x192.png",
