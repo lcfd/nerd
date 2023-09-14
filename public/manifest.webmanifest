@@ -4,12 +4,12 @@
 	"description": "In questo spazio vi racconterò di tutto sulle ultime nerdate che ho fatto, serie e film che ho guardato, come sta andando l'arrampicata. E tante altre cose che verranno fuori più avanti.",
 	"icons": [
 		{
-			"src": "/192x192.png",
+			"src": "/android-chrome-192x192.png",
 			"sizes": "192x192",
 			"type": "image/png"
 		},
 		{
-			"src": "/512x512.png",
+			"src": "/android-chrome-512x512.png",
 			"sizes": "512x512",
 			"type": "image/png"
 		}
