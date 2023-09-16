@@ -13,7 +13,9 @@ Chiaramente avere dei legami lo rende più vulnerabile ai cattivoni.
 Soprattutto se anche i tuoi parenti ce la mettono tutta per fare cose brutte.
 
 La serie mantiene la sua qualità in tutto e il suo protagonista è sempre carismatico.
-Con tante stagioni a dispozione sono contento di avergli dato un'opportunità.
+
+
+Con tante stagioni a dispozione sono contento di aver dato alla serie un'opportunità.
 
 Da notare che l'attrice che fa la moglie del vicecapo Irvin Irving cambia in questa stagione.
 
@@ -37,6 +39,19 @@ Credo che il messsaggio sia che non ci sono ricompense per chi fa il doppio gioc
 Mai.
 Adesso gli manca un testimone, cosa faranno i nostri eroi?
 
+### 8 9 10
+
+La faccenda precipita. Tutti gli attori in campo sparano all'impazzata. Il giga cattivone riceve la punizione giusta ma non prima di qualche esplosione da scenario di guerra. Torna poi in campo l'avvocatessa maledetta che tormentava Bosh. Chiaramente per difendere la vipera.
+
+La sottotrama sull'omicidio della madre di Bosh va avanti, o meglio, si conclude. Il bastardo se ne è andato senza pagare. A volte succede.
+
+
 ## Voto
 
-In corso.
+La prima stagione era più coinvolgente e psicologica. Questa ha un sapore più classico. Con l'eroe che salva tutti.
+
+Ho capito che non hanno paura di far saltare qualche testa, mi piace.
+
+Avrei voluto vedere la crescita di qualche altro personaggio.
+
+3.5/5
