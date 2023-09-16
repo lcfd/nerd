@@ -21,11 +21,21 @@ Da notare che l'attrice che fa la moglie del vicecapo Irvin Irving cambia in que
 
 ## Note sui singoli episodi
 
-### 6
+### 6 (2023-09-15)
 
 Era abbastanza prevedibile succedesse il fattaccio.
 Ma il modo in cui è successo, wow, totalmente dal nulla.
 Crudo e selvaggio.
+
+### 7 (2023-09-16)
+
+La bestia si arrabbia e arruola il cavaliere.
+Si scopre cosa sono i bossoli nel bicchiere in casa di Bosh.
+Sono per i colleghi caduti, ognuno rappresenta un funerale.
+Saltano un po' di maschere e il verve viene schiacciato.
+Credo che il messsaggio sia che non ci sono ricompense per chi fa il doppio gioco.
+Mai.
+Adesso gli manca un testimone, cosa faranno i nostri eroi?
 
 ## Voto
 
