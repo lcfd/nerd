@@ -5,6 +5,9 @@ const meta = {
 	title: "Chi sono",
 	description: "Qualche info utile per capire chi sono",
 };
+
+import { Image } from 'astro:assets';
+import ImageOfMe from "./me.jpeg";
 ---
 
 <PageLayout meta={meta}>
@@ -17,14 +20,12 @@ const meta = {
 		<p>
       Dal 2022 arrampico con costanza, principalmente boulder.
     </p>
-		<p>Alcune cose che ho in programma di fare:</p>
-		<ul class="list-inside list-disc">
-			<li>Giocare a D&D 5E (Historia)</li>
-			<li>Giocare a Blades in the dark</li>
-			<li>Giocare a Cairn</li>
-			<li>Finire un libro al mese</li>
-			<li>Recensire una serie ogni tanto</li>
-			<li>Guardare un sacco di film anni 80/90</li>
-		</ul>
+    
+  <Image src={ImageOfMe} alt="Luca">
+  
+		<p>Nel tempo libero arrampico e nerdo. Mi piacciono un casino i giochi da tavola e quelli di ruolo. Non gioco più ai videogiochi come un tmepo ma continuo a difendermi con un minutaggio onesto.</p>
+  
+  <p>Continuo a portarmi dietro la passione per i libri fantasy e non credo di volermela togliere. Un giorno voglio togliermi la soddisfazione di scrivere un libro e vederlo stampato su carta.</p>
+  
 	</div>
 </PageLayout>
