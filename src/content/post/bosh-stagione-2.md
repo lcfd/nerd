@@ -1,8 +1,8 @@
 ---
-title: "Recensione: Bosh - Stagione 2 (In corso)"
+title: "Recensione: Bosh - Stagione 2"
 description: "Una stagione più soleggiata"
 publishDate: "16 Sept 2023 18:30"
-tags: ["libri"]
+tags: ["serie"]
 ---
 
 Un inizio più tranquillo rispetto alla prima stagione.
@@ -13,7 +13,6 @@ Chiaramente avere dei legami lo rende più vulnerabile ai cattivoni.
 Soprattutto se anche i tuoi parenti ce la mettono tutta per fare cose brutte.
 
 La serie mantiene la sua qualità in tutto e il suo protagonista è sempre carismatico.
-
 
 Con tante stagioni a dispozione sono contento di aver dato alla serie un'opportunità.
 
@@ -44,7 +43,6 @@ Adesso gli manca un testimone, cosa faranno i nostri eroi?
 La faccenda precipita. Tutti gli attori in campo sparano all'impazzata. Il giga cattivone riceve la punizione giusta ma non prima di qualche esplosione da scenario di guerra. Torna poi in campo l'avvocatessa maledetta che tormentava Bosh. Chiaramente per difendere la vipera.
 
 La sottotrama sull'omicidio della madre di Bosh va avanti, o meglio, si conclude. Il bastardo se ne è andato senza pagare. A volte succede.
-
 
 ## Voto
 
