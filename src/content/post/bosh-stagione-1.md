@@ -2,7 +2,7 @@
 title: "Recensione: Bosh - Stagione 1"
 description: "Un poliziotto col broncio a Los Angeles"
 publishDate: "14 Sept 2023 18:30"
-tags: ["serie", "poliziesco"]
+tags: ["serie", "poliziesco", "bosh"]
 ---
 
 Questa serie mi ha piacevolmente stupito.

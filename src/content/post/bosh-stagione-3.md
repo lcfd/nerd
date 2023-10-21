@@ -1,9 +1,14 @@
 ---
 title: "Recensione: Bosh - Stagione 3"
-description: "In corso"
+description: "Un caso difficile, il regista scemo"
 publishDate: "27 Sept 2023 18:30"
-tags: ["serie"]
+tags: ["serie", "poliziesco", "bosh"]
 ---
+
+Fra le stagioni che mi ha convinto di meno ma comunque interessante.
+Ci sono un po' troppi rimbalzi fra personaggi.
+
+Storia comunque carina, i personaggi si evolvono.
 
 **Spoiler ⬇️**
 
@@ -23,7 +28,7 @@ Insomma, come tutti gli adolescenti non é mai contenta.
 Irving ricopre il ruolo di capo della polizia, ma solo momentaneamente.
 Dopo la rielezione del sindaco questo prova a convincere Irving ricoprire il ruolo permanentemente.
 
-Bosh deve testimoniare contro la st****a bionda assassina avida della stagione precedente.
+Bosh deve testimoniare contro la st\*\*\*\*a bionda assassina avida della stagione precedente.
 L'avvocato avversario é quella tipa che ha provato in tutti i modi a rovinarlo nella prima stagione.
 Che odiosa, a volte esagera per nessun motivo. Spietata.
 
@@ -34,4 +39,4 @@ Che figo questo rapporto con la musica, mi ha fatto venir voglia di ascoltarla a
 
 ## Voto
 
-TBA/5
+3/5
