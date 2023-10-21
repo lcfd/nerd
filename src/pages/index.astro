@@ -56,9 +56,9 @@ const allPostsByDate = sortMDByDate(allPosts).slice(0, MAX_POSTS);
 	<section>
 		<h1 class="title mb-6">Ciao!</h1>
 		<p class="mb-4">Qui vi racconterò le ultime nerdate che ho fatto, le ultime serie e film che ho guardato. Oltre a questo ci sarà spazio per l'arrampicata, i viaggi e le escursioni.</p>
-  
+
 		<p class="mb-4 text-xs">Vi aspetto, buona strada!</p>
-  
+
 		<SocialList />
 	</section>
 	<section aria-label="Blog post list" class="mt-16">
@@ -72,6 +72,10 @@ const allPostsByDate = sortMDByDate(allPosts).slice(0, MAX_POSTS);
 				))
 			}
 		</ul>
+
+    <p class="mt-8">
+      Questi sono solo gli ultimi 10. <a class="cactus-link" href="/posts">Qui tutti gli altri.</a>
+    </p>
 	</section>
 	<!-- <section class="mt-16"> -->
 	<!-- 	<h2 class="title mb-4 text-xl">Technologies</h2> -->
