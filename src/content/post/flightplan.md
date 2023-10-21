@@ -1,7 +1,7 @@
 ---
 title: "Flightplan - Mistero in volo"
 description: "Non credo sia pazza"
-publishDate: "20 Sept 2023 18:30"
+publishDate: "21 Oct 2023 18:30"
 tags: ["film", "mistero", "thriller"]
 ---
 
