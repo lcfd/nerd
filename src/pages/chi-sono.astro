@@ -6,7 +6,7 @@ const meta = {
 	description: "Qualche info utile per capire chi sono",
 };
 
-import { Image } from 'astro:assets';
+import { Image } from "astro:assets";
 import ImageOfMe from "./me.jpeg";
 ---
 
@@ -14,18 +14,25 @@ import ImageOfMe from "./me.jpeg";
 	<div class="space-y-6">
 		<h1 class="title">Ciao sono Luca 👋</h1>
 		<p>
-      Nerd classe '93. Credo di aver cominciato veramente con una PS1 di seconda mano. Nel mentre sono arrivati i grandi libroni fantasy e Magic.
-      Poi é stato tutto in diescesa.
-    </p>
+			Nerd, classe '93. Credo di aver cominciato con una PS1 di seconda mano. Nel mentre sono
+			arrivati i grandi libroni fantasy e Magic TGC. Da lì in poi é stato tutto in diescesa.
+		</p>
+
+		<p>Dal 2022 arrampico, principalmente boulder.</p>
+
+		<Image src={ImageOfMe} alt="Luca" />
+
 		<p>
-      Dal 2022 arrampico con costanza, principalmente boulder.
-    </p>
-    
-  <Image src={ImageOfMe} alt="Luca" />
-  
-		<p>Nel tempo libero arrampico e nerdo. Mi piacciono un casino i giochi da tavola e quelli di ruolo. Non gioco più ai videogiochi come un tmepo ma continuo a difendermi con un minutaggio onesto.</p>
-  
-  <p>Continuo a portarmi dietro la passione per i libri fantasy e non credo di volermela togliere. Un giorno voglio togliermi la soddisfazione di scrivere un libro e vederlo stampato su carta.</p>
-  
+			Nel tempo libero arrampico e nerdo. Mi piacciono un casino i giochi da tavola e quelli di
+			ruolo. Non gioco più con i videogiochi come un tempo, ma continuo a difendermi con un
+			minutaggio onesto su roba leggera.
+		</p>
+
+		<p>Mi piace fare della pixel art per alcuni progetti.</p>
+
+		<p>
+			Continuo a portarmi dietro la passione per i libri fantasy e non credo di volermela togliere.
+			Un giorno voglio togliermi la soddisfazione di scrivere un libro e vederlo stampato su carta.
+		</p>
 	</div>
 </PageLayout>
