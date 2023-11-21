@@ -1,5 +1,5 @@
 ---
-title: "Recensione: Bosh - Stagione 3"
+title: "Bosh - Stagione 3"
 description: "Un caso difficile, il regista scemo"
 publishDate: "27 Sept 2023 18:30"
 tags: ["serie", "poliziesco", "bosh"]

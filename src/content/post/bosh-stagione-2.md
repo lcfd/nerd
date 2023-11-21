@@ -1,5 +1,5 @@
 ---
-title: "Recensione: Bosh - Stagione 2"
+title: "Bosh - Stagione 2"
 description: "Una stagione più soleggiata"
 publishDate: "16 Sept 2023 18:30"
 tags: ["serie", "poliziesco", "bosh"]

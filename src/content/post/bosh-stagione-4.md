@@ -1,5 +1,5 @@
 ---
-title: "Recensione: Bosh - Stagione 4"
+title: "Bosh - Stagione 4"
 description: "Casino ai piani alti"
 publishDate: "21 Oct 2023 18:30"
 tags: ["serie", "poliziesco", "bosh"]

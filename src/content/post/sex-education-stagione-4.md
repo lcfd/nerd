@@ -1,5 +1,5 @@
 ---
-title: "Recensione: Sex Eduction - Stagione 4"
+title: "Sex Eduction - Stagione 4"
 description: "Ci sono arrivato dopo"
 publishDate: "05 Nov 2023 18:30"
 tags: ["serie", "sex", "education"]
