@@ -2,7 +2,7 @@
 title: "Call of Cthulhu (video game)"
 description: "Tanto bello quanto brutto"
 publishDate: "30 Nov 2023 18:30"
-tags: ["review", videogame", "Cthulhu", "horror", "detective"]
+tags: ["review", "videogame", "Cthulhu", "horror", "detective"]
 ---
 
 ⬆️ Bad:
