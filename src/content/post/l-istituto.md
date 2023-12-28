@@ -1,7 +1,7 @@
 ---
 title: "L'istituto — Stephen King"
 description: "Una grande storia ma raccontata dai giusti punti di vista."
-publishDate: "26 Oct 2023 18:30"
+publishDate: "26 Dec 2023 18:30"
 tags: ["libro", "King"]
 ---
 
