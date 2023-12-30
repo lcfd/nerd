@@ -8,7 +8,7 @@ export const GET = async () => {
 	return rss({
 		title: siteConfig.title,
 		description: siteConfig.description,
-		site: "https://nerd.lucafedrizzi.com",
+		site: "https://bradipoviandante.com",
 		items: posts.map((post) => ({
 			title: post.data.title,
 			description: post.data.description,
